@@ -23,7 +23,7 @@
 
 ## - Backend
 
-Toda a lógica do back-end foi construida utilizando Express.js e Mongo DB como banco de dados. Um sistema de autenticação foi desenvolvido no back-end, possibilitando ao usuário as opções de se cadastrar e loggar na aplicação. Também foi desenvolvido um CRUD que possibilita aos usários a possibilidade de adicionar, ler, deletar e editar os contantos que forem adicionados por ele/ela, os usuários possuem acesso apenas aos contatos criados por eles próprios, garantido a segurança da informação armazenada no banco de dados. A lógica de rota privada foi implementada no back-end, possibilitando que apenas usários cadastrados na aplicação consigam ter acesso a rotas especificas. A API e o banco de dados foram construidos pensando sempre na segurança e bem estar dos usuários. 
+Toda a lógica do back-end foi construida utilizando Express.js e Mongo DB como banco de dados. Um sistema de autenticação foi desenvolvido no back-end, possibilitando ao usuário as opções de se cadastrar e loggar na aplicação. Também foi desenvolvido um CRUD que possibilita aos usuários a possibilidade de adicionar, ler, deletar e editar os contantos que forem adicionados por ele/ela, os usuários possuem acesso apenas aos contatos criados por eles próprios, garantido a segurança da informação armazenada no banco de dados. A lógica de rota privada foi implementada no back-end, possibilitando que apenas usários cadastrados na aplicação consigam ter acesso a rotas especificas. A API e o banco de dados foram construidos pensando sempre na segurança e bem estar dos usuários. 
 
 ## - Frontend
 
